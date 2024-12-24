@@ -1,0 +1,9 @@
+# Unity
+Library/
+Temp/
+Obj/
+.vs/
+.vscode/
+.idea/
+.DS_Store
+.user
